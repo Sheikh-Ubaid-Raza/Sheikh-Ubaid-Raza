@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello, I'm Ubaid Raza!
 
-<!--
-**Sheikh-Ubaid-Raza/Sheikh-Ubaid-Raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate self-learner exploring **Computer Science**, focusing on **Web Development** & **AI** technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- 🌐 HTML | CSS | JavaScript | TypeScript  
+- ⚛️ Next.js | Tailwind CSS  
+- 🐍 Python Programming  
+- 🤖 Prompt Engineering  
+- 🤖 Currently learning **OpenAI Agent SDK** to build autonomous AI agents
+
+---
+
+### 👨‍🎓 About Me
+I have strong theoretical knowledge and growing practical experience in these technologies.  
+I’m excited to apply my skills and start my professional journey in tech!
+
+---
+
+### 📂 Projects
+I enjoy building projects and solving real-world problems with code.  
+Stay tuned for more updates and contributions!
+
+---
+
+### 📫 Connect with Me
+Feel free to reach out for collaborations, freelancing, or job opportunities!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ubaid-raza/](https://www.linkedin.com/in/ubaid-raza-8764332b9/?trk=contact-info))  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/your_twitter_handle](https://x.com/UbaidRaza8793))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikhubaidraza786@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
